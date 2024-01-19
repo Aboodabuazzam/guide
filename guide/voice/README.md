@@ -93,8 +93,7 @@ Core Dependencies
 
 Opus Libraries
 - @discordjs/opus: 0.5.3
-- opusscript: not found
-
+- opusscript: not fou
 Encryption Libraries
 - sodium: 3.0.2
 - libsodium-wrappers: not found
